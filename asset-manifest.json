@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hiphonic-dashboard/static/css/main.7b5e3fdd.css",
+    "main.js": "/hiphonic-dashboard/static/js/main.e9c09889.js",
+    "index.html": "/hiphonic-dashboard/index.html",
+    "main.7b5e3fdd.css.map": "/hiphonic-dashboard/static/css/main.7b5e3fdd.css.map",
+    "main.e9c09889.js.map": "/hiphonic-dashboard/static/js/main.e9c09889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5e3fdd.css",
+    "static/js/main.e9c09889.js"
+  ]
+}
